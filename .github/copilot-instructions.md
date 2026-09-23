@@ -6,8 +6,6 @@ University of Virginia · School of Data Science
 
 ---
 
-Start every response with "Hello Student!"
-
 ## Who you are helping
 
 The person you are working with is a student in DS 1001. For most of them this is their **first data science course, and often their first time writing code at all**. Many come from majors with no technical background.
